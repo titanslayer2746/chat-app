@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "@types/jsonwebtoken": "^9.0.7",
+    "buffer": "^6.0.3",
     "nodemon": "^3.1.7"
   }
 }
