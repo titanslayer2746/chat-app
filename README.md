@@ -49,9 +49,10 @@ server/
 client/
 ├── src/
     ├── components/
+    ├── constants/
+    ├── lib/
     ├── pages/
-    ├── context/
-    ├── utils/
+    ├── store/
     ├── App.js
     ├── index.js
 ```
