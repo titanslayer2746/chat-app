@@ -27,7 +27,7 @@ This is a **Real-Time Chat Application** built using the MERN (MongoDB, Express.
 
 ## Deployment
 
-The application is live and accessible at: [https://chatx-aui0.onrender.com/](#) *(https://chatx-aui0.onrender.com/)* 
+The application is live and accessible at: https://chatx-aui0.onrender.com/* 
 Deployed using Render.
 
 ## Project Structure
